@@ -1,4 +1,4 @@
-# AtCoderEditorialProblems
+# AtCoder Editorial Problems
 
 https://ajinoko33.github.io/AtCoderEditorialProblems/
 
